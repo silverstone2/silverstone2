@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcles21)](https://solved.ac/kcles21)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverstone2)](https://github.com/silverstone2/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverstone2)](https://github.com/silverstone2/github-readme-stats)
